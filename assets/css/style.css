@@ -1,0 +1,90 @@
+body{
+    background:#ffffff;
+    border: 1px solid #dddddd;
+    width: 960px;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    color:#777777; 
+    text-align:center;
+    margin-top: 20px;
+
+
+
+}
+
+
+
+h1{
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    color: #ffffff;
+    width: 400px;
+    padding: 30px;
+
+}
+
+#About {
+    position:fixed;
+    color:#4aaaa5;
+    background:#cccccc;
+
+
+}
+
+#Portfolio {
+    color:#4aaaa5;
+    
+}
+
+#Contact {
+    color:#4aaaa5;
+}
+
+
+.info{
+
+}
+
+h2 {
+    position: relative;
+    top:0;
+    left:0;
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 36px;
+    width:265px;
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    padding:20px;
+
+
+}
+
+.hline {
+    width:100%; 
+    height:1px; 
+    background: #ffffff 
+}
+
+img{
+    float:left;
+    padding: 15px;
+    margin: 10px;
+
+}
+
+p{
+    text-align: left;
+    padding: 25px;
+    margin:0px;
+    
+
+}
+
+p{}
+    
+
+}
